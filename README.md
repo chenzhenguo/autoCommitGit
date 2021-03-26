@@ -9,4 +9,5 @@ git add .
 git commit  -m "firest commit"
 
 git remote add origin    git@wwwguoguo520com.github.com:wwwguoguo520com/autoCommitGit.git
+test
 
